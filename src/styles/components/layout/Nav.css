@@ -1,0 +1,21 @@
+.number{
+    position: relative;
+    top: 5px;
+    padding: 2px ;
+   color: green;
+    border-radius: 50%;
+}
+
+.me-auto{
+    display: flex;
+    justify-content: center;
+}
+.nav{
+  position: static;
+}
+
+#nav{
+  text-decoration: none;
+  color: rgb(132, 135, 139);
+  margin: 15px;
+}
